@@ -1,6 +1,0 @@
-heroku git commands: (get help with heroku help git:COMMAND)
-
- git:clone [DIRECTORY]  [90mclones a heroku app to your local machine at DIRECTORY
-                        (defaults to app name)[39m
- git:remote             [90madds a git remote to an app repo[39m
-
